@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MiracIeSMP.aternos.me",
-    "port": 33279,
+    "ip": "MYSTERIOUSSMP.aternos.me",
+    "port": 31414,
     "version": "1.20.1",
     "try-creative": false
   },
